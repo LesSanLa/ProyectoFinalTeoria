@@ -1,0 +1,166 @@
+newmtl DB_Apps_Tech_04_13:DB_Apps_Tech_04_13_02
+illum 4
+Kd 0.25 0.25 0.25
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.60
+Ks 1.07 1.07 1.07
+Ns 58.33
+newmtl DB_Apps_Tech_04_13:DB_Apps_Tech_04_13_04
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd DB_Apps&Tech_04_13_01.png
+Ni 1.60
+Ks 0.00 0.00 0.00
+map_Ks DB_Apps&Tech_04_13_01.png
+Ns 58.33
+newmtl DB_Apps_Tech_04_13:DB_Apps_Tech_04_13_06
+illum 4
+Kd 0.02 0.02 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.60
+Ks 0.01 0.01 0.01
+Ns 66.67
+newmtl DB_Apps_Tech_04_13:DB_Apps_Tech_04_13_08
+illum 4
+Kd 0.18 0.18 0.18
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.60
+Ks 1.07 1.07 1.07
+Ns 66.67
+newmtl DB_Apps_Tech_04_13:DB_Apps_Tech_04_13_10
+illum 4
+Kd 0.02 0.02 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.60
+Ks 0.01 0.01 0.01
+Ns 58.33
+newmtl DB_Apps_Tech_04_13:DB_Apps_Tech_04_13_12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.60
+Ks 2.07 2.07 2.07
+Ns 83.33
+newmtl DB_Apps_Tech_04_13:DB_Apps_Tech_04_13_14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd DB_Apps&Tech_04_13_02.png
+Ni 1.60
+Ks 1.00 1.00 1.00
+Ns 54.17
+newmtl DB_Apps_Tech_04_13:DB_Apps_Tech_04_13_16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd DB_Apps&Tech_04_13_03.png
+Ni 1.60
+Ks 0.01 0.01 0.01
+Ns 58.33
+newmtl DB_Apps_Tech_04_13:DB_Apps_Tech_04_13_18
+illum 4
+Kd 0.02 0.02 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.60
+Ks 0.02 0.02 0.02
+Ns 66.67
+newmtl DB_Apps_Tech_04_13:DB_Apps_Tech_04_13_20
+illum 4
+Kd 0.08 0.08 0.08
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+Ni 1.60
+Ks 0.01 0.01 0.01
+Ns 81.67
+newmtl cupboard:Material__67
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ruester_persian_color.jpg
+map_Ka ruester_persian_color.jpg
+Ni 1.50
+Ks 0.71 0.71 0.71
+Ns 27.00
+newmtl fcdw01:m_1
+illum 4
+Kd 0.59 0.59 0.59
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl fcdw01:m_2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd z7gd1.jpg
+map_Ka z7gd1.jpg
+Ni 1.50
+Ks 0.22 0.22 0.22
+Ns 18.00
+newmtl fcdw01:m_5
+illum 4
+Kd 0.03 0.03 0.03
+Ka 0.03 0.03 0.03
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.21 0.21 0.21
+Ns 25.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura-tela-roja1.png
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera2.jpg
+Ni 1.00
+newmtl mesaa:tbl022_wood__Vra
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TBL02201.jpg
+map_Ka TBL02201.jpg
+Ni 1.50
+Ks 0.90 0.90 0.90
+Ns 32.00
+newmtl puertarefri1:default1
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.52
+Ks 1.00 1.00 1.00
+Ns 0.06
+newmtl refript1:default1
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.52
+Ks 1.00 1.00 1.00
+Ns 0.06
