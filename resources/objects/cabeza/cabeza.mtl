@@ -1,30 +1,77 @@
-# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
-# File Created: 25.11.2021 13:55:16
-
-newmtl Boy01_Head_MAT
-	Ns 43.2193
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 1.0000 1.0000 1.0000
-	Ks 0.0248 0.0248 0.0248
-	Ke 0.0000 0.0000 0.0000
-	map_Ka Boy_Head_diffuse.png
-	map_Kd Boy_Head_diffuse.png
-
-newmtl Boy02_Hair_MAT
-	Ns 43.2193
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.0000 0.0000 0.0000
-	Kd 1.0000 1.0000 1.0000
-	Ks 0.0744 0.0744 0.0744
-	Ke 0.0000 0.0000 0.0000
-	map_Ka Boy_02_Hair_diffuse.png
-	map_Kd Boy_02_Hair_diffuse.png
+newmtl brazoDer:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Boy_Hands_diffuse.png
+Ni 1.00
+newmtl brazoDer:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Boy_02_UpperBody_diffuse.png
+Ni 1.00
+newmtl brazoIzq:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Boy_Hands_diffuse.png
+Ni 1.00
+newmtl brazoIzq:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Boy_02_UpperBody_diffuse.png
+Ni 1.00
+newmtl cabeza1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Boy_Head_diffuse.png
+Ni 1.00
+newmtl cabeza1:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Boy_02_Hair_diffuse.png
+Ni 1.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Boy_Hands_diffuse.png
+Ni 1.00
+newmtl piernaDer2:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Boy_02_LowerBody_diffuse.png
+Ni 1.00
+newmtl piernaDer2:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Boy_02_Shoes_diffuse.png
+Ni 1.00
+newmtl piernaIzq:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Boy_02_LowerBody_diffuse.png
+Ni 1.00
+newmtl piernaIzq:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Boy_02_Shoes_diffuse.png
+Ni 1.00
